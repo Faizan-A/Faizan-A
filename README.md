@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Faizan-A
 - 👀 I’m interested in Apps Devlopment
 - 🌱 I’m currently learning C programing
-- 📫 How to reach me ...
+- 📫 How to reach me @padha_likha_
 
 <!---
 Faizan-A/Faizan-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
